@@ -1,5 +1,7 @@
 # termux-desktop-xfce-fork
 
+# WARNING: This script can only run in Termux!
+
 # Installation
 
 ```bash
